@@ -1,6 +1,6 @@
 ---
 
-# 🚀 Vortek Solutions
+# Vortek Solutions
 
 Bem-vindos a **Vortek Solutions**! Somos uma equipe apaixonada por tecnologia, focada em desenvolver soluções inovadoras e de alta qualidade para os desafios do mundo digital. Acreditamos no poder da colaboração e da inovação contínua para criar projetos que realmente façam a diferença.
 
